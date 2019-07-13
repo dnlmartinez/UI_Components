@@ -41,6 +41,8 @@ yarn start
 
 ## Links
 https://www.learnstorybook.com/react/es/get-started
+https://www.learnstorybook.com/react/es/simple-component/
+
 
 
 ## License
